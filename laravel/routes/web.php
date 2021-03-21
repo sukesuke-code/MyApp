@@ -23,3 +23,9 @@ Route::get('/example', [MyAppController::class, 'test']);
 Route::get('/', function () {
     return view('welcome');
 });
+
+/*
+changes
+staged
+commit
+*/
