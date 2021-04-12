@@ -75,4 +75,5 @@ viewの追加(confirm.blade.php)
         <p><input type="submit" value="削除" /></p>
     </form>
 </body>
+
 </html>
